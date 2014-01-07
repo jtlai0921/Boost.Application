@@ -1,3 +1,5 @@
+Note: This branch is no longer maintained and does not receive updates, use the master branch (GIT)
+
 #Boost.Application (Aspect Based)
 
 * This release will be identified as : 0.4
